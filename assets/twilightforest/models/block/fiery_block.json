@@ -2,6 +2,7 @@
 	"__comment":"Designed by GeForceLegend",
 	"ambientocclusion":false,
 	"textures":{
+		"particle":"twilightforest:blocks/fiery_block",
 		"all":"twilightforest:blocks/fiery_block_inner",
 		"over":"twilightforest:blocks/fiery_pattern"
 	},

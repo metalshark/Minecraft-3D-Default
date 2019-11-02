@@ -2,6 +2,7 @@
 	"__comment":"Designed by GeForceLegend",
 	"parent":"block/block",
 	"textures":{
+		"particle":"blocks/glass",
 		"side":"twilightforest:blocks/fireflyjar_side",
 		"end":"twilightforest:blocks/fireflyjar_top",
 		"cork":"twilightforest:blocks/fireflyjar_cork"
