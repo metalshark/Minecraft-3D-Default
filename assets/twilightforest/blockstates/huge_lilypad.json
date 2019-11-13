@@ -4,7 +4,7 @@
 		"model":"twilightforest:huge_lilypad"
 	},
 	"variants":{
-		"inventory":[{"model":"twilightforest:util/generated_display","textures":{"layer0":"twilightforest:blocks/huge_lilypad"}}],
+		"inventory":[{"model":"twilightforest:util/item","textures":{"layer0":"twilightforest:blocks/huge_lilypad"}}],
 
 		"facing=north,piece=nw":[{"textures":{"texture":"twilightforest:blocks/huge_lilypad_1"}}],
 		"facing=north,piece=ne":[{"textures":{"texture":"twilightforest:blocks/huge_lilypad_0"}}],
