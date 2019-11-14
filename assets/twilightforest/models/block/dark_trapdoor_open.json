@@ -9,8 +9,8 @@
 			"from":[0,13,13],
 			"to":[16,16,16],
 			"faces":{
-				"north":{"uv":[16.026,-0.013,-0.026,2.9967],"texture":"#texture1"},
-				"south":{"uv":[-0.026,-0.013,16.026,2.9967],"texture":"#texture1","cullface":"south"},
+				"north":{"uv":[16.01,-0.013,-0.01,2.9967],"texture":"#texture1"},
+				"south":{"uv":[-0.01,-0.013,16.01,2.9967],"texture":"#texture1","cullface":"south"},
 				"up":{"uv":[0,0,16,2.9937],"texture":"#texture2","cullface":"up"},
 				"down":{"uv":[0,2,16,2.9],"texture":"#texture1"}
 			}
@@ -19,8 +19,8 @@
 			"from":[0,0,13],
 			"to":[16,3,16],
 			"faces":{
-				"north":{"uv":[16.026,13.0033,-0.026,16.013],"texture":"#texture1"},
-				"south":{"uv":[-0.026,13.0033,16.026,16.013],"texture":"#texture1","cullface":"south"},
+				"north":{"uv":[16.01,13.0033,-0.01,16.013],"texture":"#texture1"},
+				"south":{"uv":[-0.01,13.0033,16.01,16.013],"texture":"#texture1","cullface":"south"},
 				"up":{"uv":[0,13.1,16,14],"texture":"#texture1"},
 				"down":{"uv":[0,13.0063,16,16],"texture":"#texture2","cullface":"down"}
 			}
@@ -29,9 +29,9 @@
 			"from":[0,0,13],
 			"to":[3,16,16],
 			"faces":{
-				"north":{"uv":[2.9967,-0.026,-0.013,16.026],"texture":"#texture1"},
+				"north":{"uv":[2.9967,-0.01,-0.013,16.01],"texture":"#texture1"},
 				"east":{"uv":[2,0,2.9,16],"texture":"#texture1"},
-				"south":{"uv":[-0.013,-0.026,2.9967,16.026],"texture":"#texture1","cullface":"south"},
+				"south":{"uv":[-0.013,-0.01,2.9967,16.01],"texture":"#texture1","cullface":"south"},
 				"west":{"uv":[16,10.0025,0,13],"rotation":90,"texture":"#texture2","cullface":"west"}
 			}
 		},
@@ -39,9 +39,9 @@
 			"from":[13,0,13],
 			"to":[16,16,16],
 			"faces":{
-				"north":{"uv":[16.013,-0.026,13.0033,16.026],"texture":"#texture1"},
+				"north":{"uv":[16.013,-0.01,13.0033,16.01],"texture":"#texture1"},
 				"east":{"uv":[0,3,16,5.9975],"rotation":270,"texture":"#texture2","cullface":"east"},
-				"south":{"uv":[13.0033,-0.026,16.013,16.026],"texture":"#texture1","cullface":"south"},
+				"south":{"uv":[13.0033,-0.01,16.013,16.01],"texture":"#texture1","cullface":"south"},
 				"west":{"uv":[13.1,0,14,16],"texture":"#texture1"}
 			}
 		},
