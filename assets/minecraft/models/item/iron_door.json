@@ -7,7 +7,7 @@
 		"layer1":"block/iron_door_top1",
 		"layer2":"block/iron_door_top2",
 		"top":"block/iron_door_top",
-		"particle":"item/iron"
+		"particle":"item/iron_door"
 	},
 	"elements":[
 		{
