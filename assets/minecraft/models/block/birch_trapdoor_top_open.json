@@ -10,8 +10,8 @@
 			"from":[0,0,13],
 			"to":[16,3,16],
 			"faces":{
-				"north":{"uv":[-0.01,2.9937,16.01,0],"texture":"#particle"},
-				"south":{"uv":[16.01,2.9937,-0.01,0],"texture":"#particle","cullface":"south"},
+				"north":{"uv":[-0.01,2.9937,16.01,-0.01],"texture":"#particle"},
+				"south":{"uv":[16.01,2.9937,-0.01,-0.01],"texture":"#particle","cullface":"south"},
 				"up":{"uv":[2,2.9,12,2],"texture":"#particle"},
 				"down":{"uv":[-0.01,3,16.01,5.9975],"texture":"#texture","cullface":"down"}
 			}
@@ -20,18 +20,18 @@
 			"from":[0,0,13],
 			"to":[3,16,16],
 			"faces":{
-				"north":{"uv":[13.0063,16.01,16,-0.01],"texture":"#particle"},
+				"north":{"uv":[13.0063,16.01,16.01,-0.01],"texture":"#particle"},
 				"east":{"uv":[13.1,14,14,2],"rotation":90,"texture":"#particle"},
-				"south":{"uv":[16,16.01,13.0063,-0.01],"texture":"#particle","cullface":"south"},
-				"west":{"uv":[16.01,16,-0.01,13.0063],"rotation":270,"texture":"#texture","cullface":"west"}
+				"south":{"uv":[16.01,16.01,13.0063,-0.01],"texture":"#particle","cullface":"south"},
+				"west":{"uv":[16.01,16.01,-0.01,13.0063],"rotation":270,"texture":"#texture","cullface":"west"}
 			}
 		},
 		{
 			"from":[0,13,13],
 			"to":[16,16,16],
 			"faces":{
-				"north":{"uv":[-0.01,16,16.01,13.0063],"texture":"#particle"},
-				"south":{"uv":[16.01,16,-0.01,13.0063],"texture":"#particle","cullface":"south"},
+				"north":{"uv":[-0.01,16.01,16.01,13.0063],"texture":"#particle"},
+				"south":{"uv":[16.01,16.01,-0.01,13.0063],"texture":"#particle","cullface":"south"},
 				"up":{"uv":[-0.01,13,16.01,10.0025],"texture":"#texture","cullface":"up"},
 				"down":{"uv":[16.01,13.1,-0.01,14],"texture":"#particle"}
 			}
@@ -71,9 +71,9 @@
 			"from":[13,0,13],
 			"to":[16,16,16],
 			"faces":{
-				"north":{"uv":[0,16.01,2.9937,-0.01],"texture":"#particle"},
-				"east":{"uv":[-0.01,2.9937,16.01,0],"rotation":90,"texture":"#texture","cullface":"east"},
-				"south":{"uv":[2.9937,16.01,0,-0.01],"texture":"#particle","cullface":"south"},
+				"north":{"uv":[-0.01,16.01,2.9937,-0.01],"texture":"#particle"},
+				"east":{"uv":[-0.01,2.9937,16.01,-0.01],"rotation":90,"texture":"#texture","cullface":"east"},
+				"south":{"uv":[2.9937,16.01,-0.01,-0.01],"texture":"#particle","cullface":"south"},
 				"west":{"uv":[2.9,16.01,2,-0.01],"texture":"#particle"}
 			}
 		}
